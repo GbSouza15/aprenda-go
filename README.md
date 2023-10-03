@@ -5,7 +5,7 @@ Bem-vindo ao seu primeiro passo na jornada de aprendizado de Go! Neste primeiro 
 
 ## Índice
 
-1. [Capítulo 1: Introdução ao Go](#capitulo-1-introducao-a-sintaxe)
+1. [Capítulo 1: Introdução a Sintaxe do Go](#capitulo-1-introducao-a-sintaxe)
 
 ##
 
