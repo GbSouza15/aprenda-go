@@ -35,7 +35,7 @@ Neste código, observamos os seguintes elementos:
 
 A linha `fmt.Println("Olá, mundo!")` imprime a mensagem "Olá, mundo!" no terminal. Este é o famoso "Hello World" em Go.
 
-Isso é apenas o começo! Ao longo desta documentação, exploraremos com mais detalhes a sintaxe do Go e criaremos aplicações mais complexas. Estou ansioso para guiá-lo nessa jornada de aprendizado. Até breve!
+Isso é apenas o começo! Ao longo desta documentação, exploraremos com mais detalhes a sintaxe do Go. Até breve!
 
 **Próximos Passos**
 
