@@ -1,7 +1,7 @@
 # Aprendendo Golang
 ## Documentação para aprender Go de maneira simples e direta!
 
-Bem-vindo ao seu primeiro passo na jornada de aprendizado de Go! Neste primeiro capítulo, vamos explorar a sintaxe básica do Go, que é um elemento essencial para entender a linguagem.
+Bem-vindo ao seu primeiro passo na jornada de aprendizado de Go!
 
 ## Índice
 
