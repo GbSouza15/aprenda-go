@@ -5,8 +5,8 @@ Bem-vindo ao seu primeiro passo na jornada de aprendizado de Go!
 
 ## Índice
 
-1. [Capítulo 1: Introdução a Sintaxe do Go](#capitulo-1-introducao-a-sintaxe)
-2. [Capítulo 2: Variáveis e declarações](#capitulo-2-variaveis-e-declarações)
+1. [Capítulo 1: Introdução a Sintaxe do Go](https://github.com/GbSouza15/aprenda-go#documenta%C3%A7%C3%A3o-para-aprender-go-de-maneira-simples-e-direta)
+2. [Capítulo 2: Variáveis e declarações](https://github.com/GbSouza15/aprenda-go#vari%C3%A1veis-e-declara%C3%A7%C3%B5es-capitulo-2-variaveis-e-declara%C3%A7%C3%B5es)
 
 ##
 
@@ -54,7 +54,7 @@ No Go exitem vários tipos de variáveis:
 
 `bool`
 
-Para saber sobre outros tipos acesse: https://www.w3schools.com/go/go_data_types.php
+Para saber sobre outros tipos acesse: [este recurso](https://www.w3schools.com/go/go_data_types.php)
 
 **Sintaxe**
 
