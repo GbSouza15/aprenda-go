@@ -1,7 +1,7 @@
 # Aprendendo Golang
 ## Documentação para aprender Go de maneira simples e direta!
 
-Bem-vindo ao seu primeiro passo na jornada de aprendizado de Go! Neste primeiro capítulo, vamos explorar a sintaxe básica do Go, que é um elemento essencial para entender a linguagem.
+Bem-vindo ao seu primeiro passo na jornada de aprendizado de Go!
 
 ## Índice
 
@@ -36,7 +36,7 @@ Neste código, observamos os seguintes elementos:
 
 A linha `fmt.Println("Olá, mundo!")` imprime a mensagem "Olá, mundo!" no terminal. Este é o famoso "Hello World" em Go.
 
-Isso é apenas o começo! Ao longo desta documentação, exploraremos com mais detalhes a sintaxe do Go e criaremos aplicações mais complexas. Estou ansioso para guiá-lo nessa jornada de aprendizado. Até breve!
+Isso é apenas o começo! Ao longo desta documentação, exploraremos com mais detalhes a sintaxe do Go. Até breve!
 
 **Próximos Passos**
 
