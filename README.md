@@ -7,6 +7,7 @@ Bem-vindo ao seu primeiro passo na jornada de aprendizado de Go!
 
 1. [Capítulo 1: Introdução a Sintaxe do Go](https://github.com/GbSouza15/aprenda-go#documenta%C3%A7%C3%A3o-para-aprender-go-de-maneira-simples-e-direta)
 2. [Capítulo 2: Variáveis e declarações](https://github.com/GbSouza15/aprenda-go#vari%C3%A1veis-e-declara%C3%A7%C3%B5es-capitulo-2-variaveis-e-declara%C3%A7%C3%B5es)
+2. [Capítulo 3: Tipos de dados](#capitulo-3-tipos-de-dados)
 
 ##
 
@@ -164,3 +165,99 @@ func main() {
 ```
 
 É só ocultar o tipo e usar a forma reduzida para declarar variáveis.
+
+## Tipos de dados {#capitulo-3-tipos-de-dados}
+
+**Tipo booleano**
+
+Um tipo booleano é declarado com a palavra chave bool e só pode ter o valor **true** ou **false**
+
+```go
+package main
+
+import "fmt"
+
+func main() {
+  var b1 bool = true
+  var b2 bool = false
+
+  fmt.Println(b1) //true
+  fmt.Println(b2) // false
+}
+```
+
+**Tipos inteiros**
+
+Tipos de dados inteiros são usados para armazenar números inteiros sem decimais. Ex:
+
+```go
+package main
+
+import "fmt"
+
+func main() {
+  var n1 int = -30
+  var n2 int = -9
+  var n3 int = 50
+  var n4 int = 300
+
+  fmt.Println(n1) 
+  fmt.Println(n2) 
+  fmt.Println(n3) 
+  fmt.Println(n4) 
+}
+```
+
+Tipos de dados inteiros possui duas categorias:
+
+- Inteiros assinados
+- Inteiros não assinados
+
+Os assinados podem armazenar valores positivos e negativos. Já os não assinados só armazenam valores positivos.
+
+Para usar os não assinados, é usado essa sintaxe:
+
+```go
+package main
+
+import "fmt"
+
+func main() {
+  var n1 uint = 10
+  var n2 uint = 3
+  var n3 uint = 90
+  var n4 uint = -40 //Está errado, por ser um inteiro não assinado, não é possível atribuir um valor negativo a ele.
+}
+```
+
+Para saber mais sobre tipos inteiros, acesse [este recurso](https://www.w3schools.com/go/go_integer_data_type.php)
+
+**Tipos de ponto flutuante**
+
+Usados para armazenar números com ponto decimal positivos e negativos. Ex:
+
+```go
+package main
+
+import "fmt"
+
+func main() {
+  var n1 float64 = 12.80
+  var n2 float64 = -50.99
+}
+```
+
+Para saber mais sobre esse tipo, acesse [esse recurso](https://www.w3schools.com/go/go_float_data_type.php)
+
+**Tipos string**
+
+Servem para armazenar texto e devem usar **aspas duplas**. Ex:
+
+```go
+package main
+
+func main() {
+  var nome string = "Gabriel"
+  var sobrenome string = "Souza"
+}
+```
