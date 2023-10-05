@@ -7,7 +7,7 @@ Bem-vindo ao seu primeiro passo na jornada de aprendizado de Go!
 
 1. [Capítulo 1: Introdução a Sintaxe do Go](https://github.com/GbSouza15/aprenda-go#documenta%C3%A7%C3%A3o-para-aprender-go-de-maneira-simples-e-direta)
 2. [Capítulo 2: Variáveis e declarações](https://github.com/GbSouza15/aprenda-go#vari%C3%A1veis-e-declara%C3%A7%C3%B5es-capitulo-2-variaveis-e-declara%C3%A7%C3%B5es)
-2. [Capítulo 3: Tipos de dados](#capitulo-3-tipos-de-dados)
+3. [Capítulo 3: Tipos de dados](https://github.com/GbSouza15/aprenda-go#tipos-de-dados-capitulo-3-tipos-de-dados)
 
 ##
 
